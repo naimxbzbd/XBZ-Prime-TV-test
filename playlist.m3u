@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rajdhani" tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/rajdhani.png" group-title="News",Rajdhani TV
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+
+#EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/tsports.png" group-title="Sports",Tsports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/rtv.png" group-title="Entertainment",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="etv" tvg-name="ETV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/etv.png" group-title="Entertainment",ETV
+https://tvsen6.aynaott.com/etv/index.m3u8
+
+#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/channel9.png" group-title="Entertainment",Channel 9
+https://tvsen6.aynaott.com/channel9/index.m3u8
+
+#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/deshtv.png" group-title="News",Desh TV
+https://tvsen6.aynaott.com/deshtv/index.m3u8
+
+#EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/boishakhi.png" group-title="Entertainment",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="satv" tvg-name="SATV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/satv.png" group-title="Entertainment",SATV
+https://tvsen6.aynaott.com/satv/index.m3u8
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="MYTV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/mytv.png" group-title="Entertainment",MYTV
+https://tvsen6.aynaott.com/mytv/index.m3u8
+
+#EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/bijoy.png" group-title="Entertainment",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
+#EXTINF:-1 tvg-id="maasrangatv" tvg-name="Massranga TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/maasranga.png" group-title="Entertainment",Massranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/asiantv.png" group-title="Entertainment",Asian TV
+https://tvsen6.aynaott.com/asiantv/index.m3u8
+
+#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/banglatv.png" group-title="Entertainment",Bangla TV
+https://tvsen6.aynaott.com/banglatv/index.m3u8
+
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/mohonatv.png" group-title="Entertainment",Mohona TV
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/ptvsports.png" group-title="Sports",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="asports" tvg-name="Asports" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/asports.png" group-title="Sports",Asports
+https://tvsen6.aynaott.com/asports/index.m3u8
+
+#EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/cricketgold.png" group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/CricketGold/index.m3u8
