@@ -1,4 +1,4 @@
-# 📺 XBZ Prime TV — Official IPTV Stream Source
+# 📺 XBZ Prime TV — Official IPTV Stream Source m3u & m3u8 files
 
 Welcome to the official IPTV repository for **XBZ Prime TV**. This repository hosts the high-performance, dynamic M3U playlist file used to power the XBZ Prime TV live streaming application for Android and Android TV.
 
