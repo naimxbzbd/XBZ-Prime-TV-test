@@ -34,7 +34,7 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="maasrangatv" tvg-name="Massranga TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="Entertainment",Massranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d29aadd6d2d6f7a0a28fabc7830ae6e3
 
 #EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/D04SQBVt/Asian-TV.jpg" group-title="Entertainment",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
@@ -59,3 +59,15 @@ Http://27.124.71.27/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusicBangla" tvg-name="Dhoom Music Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0a46db85b0ae48b2a6e7ddcefc71a77a.png" group-title="Music",Dhoom Music Bangla
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/zhpfnXry/Ananda-TV.jpg",Ananda TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
+ https://tvsen6.aynaott.com/btvctg/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1779283754&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0cdc69aae0d57f2ce93a41a608a3d821
