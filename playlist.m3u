@@ -43,7 +43,7 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
 #EXTINF:-1 tvg-id="maasrangatv" tvg-name="Massranga TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="Entertainment",Massranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d29aadd6d2d6f7a0a28fabc7830ae6e3
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8 
 
 #EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/D04SQBVt/Asian-TV.jpg" group-title="Entertainment",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
