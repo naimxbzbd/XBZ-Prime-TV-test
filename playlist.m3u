@@ -1,7 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Sports",FiFa World Cup 2026
-https://go.skym3u.top/qcxe.m3u
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Sports",FiFa World Cup 2026
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Sports",FiFa World Cup 2026
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Sports",FiFa World Cup 2026
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rajdhani" tvg-name="Rajdhani TV" tvg-logo="https://i.postimg.cc/HW5LFNtR/Rajshani-TV.jpg" group-title="News",Rajdhani TV
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
