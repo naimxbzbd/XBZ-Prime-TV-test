@@ -4,6 +4,8 @@
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 
 
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports 🇦🇷 Argentina
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -27,6 +29,19 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
 https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=356b906bf972b824782bb58c1ce0bb22
+
+
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg" group-title="Sports",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="asports" tvg-name="Asports" tvg-logo="https://asport.tv/images/logo-asport-light.svg" group-title="Sports",Asports
+https://tvsen6.aynaott.com/asports/index.m3u8
+
+#EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/cricketgold.png" group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/CricketGold/index.m3u8
+
+#EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",Tsports
+Http://27.124.71.27/T-Sports/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Sports 2
@@ -86,17 +101,6 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://i.ibb.co.com/spw1Vz7q/Mohona-TV.jpg" group-title="Entertainment",Mohona TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 
-#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg" group-title="Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-#EXTINF:-1 tvg-id="asports" tvg-name="Asports" tvg-logo="https://asport.tv/images/logo-asport-light.svg" group-title="Sports",Asports
-https://tvsen6.aynaott.com/asports/index.m3u8
-
-#EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://raw.githubusercontent.com/naimxbzbd/XBZ-Prime-TV/main/logos/cricketgold.png" group-title="Sports",Cricket Gold
-https://tvsen6.aynaott.com/CricketGold/index.m3u8
-
-#EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",Tsports
-Http://27.124.71.27/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusicBangla" tvg-name="Dhoom Music Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/0a46db85b0ae48b2a6e7ddcefc71a77a.png" group-title="Music",Dhoom Music Bangla
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
