@@ -470,14 +470,15 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=6c27e0d5cff1cbf3e496ee42e9d2b244122a5e36-7787b753c792f2d4c33a0000daac236b-1781007330-1780996530
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.m3u8?token=35209da8e19e3a88f8a3d5e5d5dc37b8b21f9487-c2a4a5b170386611d66b5d218e49901a-1781009709-1780998909
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
-http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=6c27e0d5cff1cbf3e496ee42e9d2b244122a5e36-7787b753c792f2d4c33a0000daac236b-1781007330-1780996530
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
