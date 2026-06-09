@@ -770,14 +770,13 @@ https://ddy6new.newkso.ru/ddy6/premium655/mono.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth Science
-
+ 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
-
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery_sd/index.m3u8?token=7caa11536ebb0d75caec2e2766629cdf3b787bc8-f25b02aa4caeb77e5836a96017b0cee7-1781009709-1780998909
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Turbo
-
+https://edge2.roarzone.net:8447/roarzone/edge3/discovery_turbo/index.m3u8?token=82acc8d717702fb3afa25a096052792cebf2676c-9cbbb0401e6bc5326ee5b30322132720-1781007332-1780996532
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",History TV
 
@@ -814,7 +813,7 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aaj Tak HD (IN)
+#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",Aaj Tak HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
@@ -875,14 +874,10 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",Tele Zuri
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",TV9 India
+#EXTINF:-1 group-title="News" tvg-logo="https://w7.pngwing.com/pngs/609/989/png-transparent-tv9-television-channel-news-broadcasting-television-show-business-television-blue-text-thumbnail.png",TV9 India
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Yahoo News
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",WION
-
+ 
+ 
 
 
 
