@@ -123,3 +123,5 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://w7.pngwing.com/pngs/422/671/png-transparent-action-film-cinema-computer-icons-action-movie-drama-film-action-film-thumbnail.png",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FM Radio" tvg-name="Radio Foorti (88.0) FM" tvg-logo="https://play-lh.googleusercontent.com/hnFp0OQF6GXqn2dT5Fx2NUtFp6djSht1kMz9sBeZriX75SQ0RqI-HoERMsx_CTMp6HA" group-title="Entertainment",Mohona TV
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
