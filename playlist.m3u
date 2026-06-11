@@ -7,6 +7,14 @@ https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48
 
 #EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Football World Cup 2026",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdaNULNv3xm0cUauqe0CFtLBPpEI7iXGxDoEgpmVCZUKgaJi55dkOa6AyjPDfuXUD_mNHGsF7KrcVhN_LvbtZaBhONgJspWQY77GYM7QIwo6tUGC-YEvxzgMXsUYoiJFc8UeCgL0BqhjuO_ER1Xgr2JwrvmW9aEzitSFFmy0BCs6hNr0lOJOel_9skR4A/s852/Realmadrid_Television_Logo.svg-removebg-preview.png" group-title="Football World Cup 2026",Real Madrid tv Football
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://www.pngkey.com/png/full/494-4943329_a-spor-live-parsa-tv-msnbc-logo-image.png" group-title="Football World Cup 2026",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1S4ZTWYo74VGvU4fRoNaPS42h8T8wxQGK5mjtGzpiErE2tCtqrgUnuWH6nTaMuZU2FniF3Hhkyc56U6WillnMjxL6-m0VIVUxLjesJfKxRzGATaljZZzJiX83U8qs-xfkZqYWK5oAd_r7ZgRG-HtKQkH-BObaBRDiO_tczAN5k9XS5iTP7YcAgXYmR9I/s900/png-clipart-bein-sports-news-al-jazeera-fifa-bein-sports-text-sport-removebg-preview.png" group-title="Football World Cup 2026",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy News TV
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1779283766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=269246b8a31fb3a656624d71e10e447d
