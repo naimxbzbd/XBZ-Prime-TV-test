@@ -17,8 +17,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy News TV
-https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1779283766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=269246b8a31fb3a656624d71e10e447d
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Football World Cup 2026",T-Sports
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
@@ -53,8 +52,7 @@ https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 
  
 #EXTINF:-1 tvg-id="fifaworldcup" tvg-name="FIFA World Cup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexico_USA_2026_Logo_With_World_Cup_%26_2026_Wordmarks_%28White_2%29.png" group-title="Football World Cup 2026",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
  
  
 
