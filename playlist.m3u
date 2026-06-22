@@ -12,6 +12,13 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl
 #EXTINF:-1 tvg-id="T_sports_1" tvg-name="T Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Football World Cup 2026",BTV-1
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV 🇧🇩
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+
 #EXTINF:-1 tvg-id="T_sports_1" tvg-name="T Sports 1" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Football World Cup 2026",T Sports 1
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
@@ -73,19 +80,19 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV 🇧🇩
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV 🇧🇩
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV B 🇧🇩
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV B 🇧🇩
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV C 🇧🇩
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV C 🇧🇩
 https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV D
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV D
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
 
