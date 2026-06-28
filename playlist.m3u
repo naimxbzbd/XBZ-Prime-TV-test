@@ -4,7 +4,15 @@
 #PLAYLIST: FIFA BDIX
 #EXTENC: UTF-8
 
+
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://lh3.googleusercontent.com/mGk98--Wei7SRISqyPRmtGVWYIt9CcyPaQM_8JctgErASaFp91UgCHq_wubRk0SPdtft8gbkRvm1iw5NwcGYj5ftVMIFXhR4EBdY=h200", Toffee Live
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
+
 #EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
+
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live-1
 https://billowing-dawn-ee85.opkawsar156.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_1750.m3u8
 
 #EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live-2
@@ -15,18 +23,36 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl
 https://billowing-dawn-ee85.opkawsar156.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-2%2F0%2Fmaster_3000.m3u8
 
 
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/18/IScreen_logo.png/revision/latest?cb=20231207080112", i Screen
+https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
+
+
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+#EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png", Toffee Live
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="T_sports_1" tvg-name="T Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Football World Cup 2026",BTV-1
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
+https://proxy.outflanktv.workers.dev/?url=https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://s1.itcnbd.live/1-somoy-tv/tracks-v1a1/mono.m3u8?nocache=1782580870104
 
 #EXTINF:-1 group-title="Football World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuwajhnt5zlu58nLdYxFOq88vkb23sCR-cdXhhQXKwg&s=10", Somoy TV 🇧🇩
-http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+https://s1.itcnbd.live/1-somoy-tv/tracks-v1a1/mono.m3u8?nocache=1782580870104
 
 
 #EXTINF:-1 tvg-id="T_sports_1" tvg-name="T Sports 1" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Football World Cup 2026",T Sports 1
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PTV_Sports" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png" group-title="Football World Cup 2026",PTV Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
